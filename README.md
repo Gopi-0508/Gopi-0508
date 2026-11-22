@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Year-First%20Year-6366f1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Year-Second%20Year-6366f1?style=flat-square" />
   <img src="https://img.shields.io/badge/Degree-B.Tech%20AI%20and%20DS-0ea5e9?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-10b981?style=flat-square" />
 </p>
