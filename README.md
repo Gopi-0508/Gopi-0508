@@ -81,7 +81,7 @@ A simple front-end project in HTML and CSS that fetches data from a REST API. My
 
 ![AWS](https://img.shields.io/badge/AWS%20Academy%20Cloud%20Foundations-Verified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-**[AWS Academy Cloud Foundations — Verified on Credly](https://www.credly.com/users/sakthivel-perumal-v)**
+**[AWS Academy Cloud Foundations — Verified on Credly](https://www.credly.com/earner/dashboard/home)**
 
 Cloud computing concepts, AWS core services, networking, IAM, and security basics.
 
