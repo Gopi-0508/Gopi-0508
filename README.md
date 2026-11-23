@@ -30,7 +30,7 @@
 
 ## About Me
 
-I'm **Gopinath R**, a first-year B.Tech student in **Artificial Intelligence and Data Science**. I'm at the beginning of this journey, focused on building solid foundations — programming basics, mathematics for ML, and understanding how things work before jumping to advanced tools.
+I'm **Gopinath R**, a Second-year B.Tech student in **Artificial Intelligence and Data Science**. and I focused on building solid foundations — programming basics, mathematics for ML, and understanding how things work before jumping to advanced tools.
 
 Right now I'm learning by doing small projects, practising Python, and exploring cloud basics through AWS.
 
@@ -99,8 +99,8 @@ AWS Cloud concepts      ████████████░░░░   found
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakthi171005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthi171005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gopi-0508&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi-0508&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 </p>
 
 ---
